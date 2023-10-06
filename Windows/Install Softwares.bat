@@ -17,4 +17,4 @@ winget install -e --id Anki.Anki
 winget install -e --id Transmission.Transmission
 winget install -e --id Safing.Portmaster
 winget install -e --id 7zip.7zip
-winget install -e --id Opera.Opera
+winget install -e --id Mozilla.Firefox
