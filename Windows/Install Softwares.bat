@@ -1,7 +1,6 @@
 winget install WhatsApp -s msstore --accept-package-agreements
 winget install Terminal -s msstore --accept-package-agreements
 winget install -e --id SumatraPDF.SumatraPDF
-winget install -e --id Adobe.Acrobat.Reader.64-bit
 winget install -e --id Microsoft.VisualStudioCode
 winget install -e --id RevoUninstaller.RevoUninstallerPro
 winget install -e --id Cryptomator.Cryptomator
