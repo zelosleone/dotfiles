@@ -9,15 +9,12 @@ winget install -e --id BleachBit.BleachBit
 winget install -e --id nomacs.nomacs
 winget install -e --id Peppy.Osu!
 winget install -e --id Nvidia.GeForceNow
-winget install -e --id Faithlife.Logos
 winget install -e --id Zoom.Zoom
 winget install -e --id Google.Drive
 winget install -e --id Valve.Steam
 winget install -e --id Discord.Discord
 winget install -e --id Anki.Anki
 winget install -e --id Transmission.Transmission
-winget install -e --id MullvadVPN.MullvadVPN
 winget install -e --id Safing.Portmaster
 winget install -e --id 7zip.7zip
-winget install -e --id Google.Chrome
-winget install -e --id Mozilla.Firefox
+winget install -e --id Opera.Opera
