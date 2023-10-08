@@ -5,7 +5,7 @@ winget install -e --id Microsoft.VisualStudioCode
 winget install -e --id RevoUninstaller.RevoUninstallerPro
 winget install -e --id Cryptomator.Cryptomator
 winget install -e --id BleachBit.BleachBit
-winget install -e --id nomacs.nomacs
+winget install -e --id sylikc.JPEGView
 winget install -e --id Peppy.Osu!
 winget install -e --id Nvidia.GeForceNow
 winget install -e --id Zoom.Zoom
