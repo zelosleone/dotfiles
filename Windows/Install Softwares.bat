@@ -14,6 +14,7 @@ winget install -e --id Valve.Steam
 winget install -e --id Discord.Discord
 winget install -e --id Anki.Anki
 winget install -e --id Transmission.Transmission
-winget install -e --id Safing.Portmaster
 winget install -e --id 7zip.7zip
 winget install -e --id Mozilla.Firefox
+winget install -e --id Henry++.simplewall
+winget install -e --id AdGuard.AdGuard
