@@ -18,3 +18,5 @@ winget install -e --id 7zip.7zip
 winget install -e --id Mozilla.Firefox
 winget install -e --id Henry++.simplewall
 winget install -e --id AdGuard.AdGuard
+winget install -e --id voidtools.Everything
+winget install -e --id Stardock.Start11
