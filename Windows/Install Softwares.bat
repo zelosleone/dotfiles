@@ -14,3 +14,16 @@ winget install -e --id Mozilla.Firefox
 winget install -e --id zhanglun.Lettura
 winget install -e --id Surfshark.Surfshark
 winget install -e --id Telegram.TelegramDesktop
+winget install -e --id Spotify.Spotify
+winget install -e --id Stellarium.Stellarium
+winget install -e --id Squitch.Tess
+winget install -e --id SomePythonThings.WingetUIStore
+winget install -e --id OpenWhisperSystems.Signal
+winget install -e --id Ombrelin.PandocGui
+winget install -e --id Mozilla.Thunderbird
+winget install -e --id MinhLoi.Midterm
+winget install -e --id MacPaw.Encrypto
+winget install -e --id LedgerHQ.LedgerLive
+winget install -e --id Klocman.BulkCrapUninstaller
+winget install -e --id KDE.Okular
+winget install -e --id IObit.DriverBooster
