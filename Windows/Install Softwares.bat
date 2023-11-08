@@ -12,3 +12,4 @@ winget install -e --id Anki.Anki
 winget install -e --id Transmission.Transmission
 winget install -e --id Mozilla.Firefox
 winget install -e --id zhanglun.Lettura
+winget install -e --id Surfshark.Surfshark
