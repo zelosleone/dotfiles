@@ -27,3 +27,4 @@ winget install -e --id LedgerHQ.LedgerLive
 winget install -e --id Klocman.BulkCrapUninstaller
 winget install -e --id KDE.Okular
 winget install -e --id IObit.DriverBooster
+winget install -e --id DataHammer.HammerPDF
