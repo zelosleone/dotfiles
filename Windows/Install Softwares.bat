@@ -8,8 +8,6 @@ winget install -e --id Zoom.Zoom
 winget install -e --id Google.Drive
 winget install -e --id Valve.Steam
 winget install -e --id Discord.Discord
-winget install -e --id Anki.Anki
-winget install -e --id Transmission.Transmission
 winget install -e --id zhanglun.Lettura
 winget install -e --id Surfshark.Surfshark
 winget install -e --id Telegram.TelegramDesktop
@@ -19,7 +17,6 @@ winget install -e --id Squitch.Tess
 winget install -e --id SomePythonThings.WingetUIStore
 winget install -e --id OpenWhisperSystems.Signal
 winget install -e --id Ombrelin.PandocGui
-winget install -e --id Mozilla.Thunderbird
 winget install -e --id MinhLoi.Midterm
 winget install -e --id MacPaw.Encrypto
 winget install -e --id LedgerHQ.LedgerLive
@@ -27,14 +24,11 @@ winget install -e --id Klocman.BulkCrapUninstaller
 winget install -e --id KDE.Okular
 winget install -e --id IObit.DriverBooster
 winget install -e --id DataHammer.HammerPDF
-winget install -e --id Daum.PotPlayer
 winget install -e --id Brave.Brave
 winget install -e --id BiniSoft.WindowsFirewallControl
-winget install -e --id BinaryMark.BiorhythmsCalculator
 winget install -e --id agalwood.Motrix
-winget install -e --id Axosoft.GitKraken
 winget install -e --id Audacity.Audacity
 winget install -e --id AlekseyHoffman.Sigma-File-Manager
 winget install -e --id Notion.Notion
+winget install -e --id GeoGebra.Classic.5
 winget install -e --id GeoffreyChen.Paperlib
-winget install -e --id DataHammer.HammerPDF
