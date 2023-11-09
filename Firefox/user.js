@@ -2,6 +2,7 @@ user_pref("accessibility.force_disabled", 1);
 user_pref("beacon.enabled", false);
 user_pref("breakpad.reportURL", "");
 user_pref("browser.aboutConfig.showWarning", false);
+user_pref("network.http.rcwn.enabled", false);
 user_pref("privacy.globalprivacycontrol.functionality.enabled", true);
 user_pref("browser.bookmarks.max_backups", 1);
 user_pref("browser.bookmarks.restore_default_bookmarks", false);
