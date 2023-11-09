@@ -1,0 +1,7 @@
+Windows Registry Editor Version 5.00
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\AppCompat]
+"AITEnable"=dword:0
+"DisableEngine"=dword:1
+"DisablePCA"=dword:1
+"DisableInventory"=dword:1
+"SbEnable"=dword:0
