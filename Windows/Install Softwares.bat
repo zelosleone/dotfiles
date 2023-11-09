@@ -28,7 +28,6 @@ winget install -e --id Brave.Brave
 winget install -e --id BiniSoft.WindowsFirewallControl
 winget install -e --id agalwood.Motrix
 winget install -e --id Audacity.Audacity
-winget install -e --id AlekseyHoffman.Sigma-File-Manager
 winget install -e --id Notion.Notion
 winget install -e --id GeoGebra.Classic.5
 winget install -e --id GeoffreyChen.Paperlib
