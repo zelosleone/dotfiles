@@ -13,7 +13,6 @@ winget install -e --id Telegram.TelegramDesktop
 winget install -e --id Spotify.Spotify
 winget install -e --id Stellarium.Stellarium
 winget install -e --id MacPaw.Encrypto
-winget install -e --id LedgerHQ.LedgerLive
 winget install -e --id Klocman.BulkCrapUninstaller
 winget install -e --id KDE.Okular
 winget install -e --id Google.Chrome
@@ -21,3 +20,4 @@ winget install -e --id agalwood.Motrix
 winget install -e --id Audacity.Audacity
 winget install -e --id Notion.Notion
 winget install -e --id GeoffreyChen.Paperlib
+winget install --id=RazerInc.RazerInstaller  -e
