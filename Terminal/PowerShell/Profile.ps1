@@ -240,4 +240,3 @@ Set-Alias -Name touch -Value New-Item
 Set-Alias -Name ll -Value Get-ChildItem
 Set-Alias -Name g -Value git
 Set-Alias -Name py -Value python
-
