@@ -44,7 +44,7 @@ if settings.linux_over_windows==nil then
 end
 
 function show_osd_message(file)
-    mp.osd_message("Now playing: " .. file, settings.osd_duration)  -- Adjust OSD display time as needed
+    mp.osd_message("Now playing: " .. file, settings.osd_duration)
 end
 
 function nexthandler()
