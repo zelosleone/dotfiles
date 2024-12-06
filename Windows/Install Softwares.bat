@@ -22,3 +22,4 @@ winget install -e --id=GeoGebra.Classic
 winget install -e --id=Posit.RStudio
 winget install -e --id=RProject.R
 winget install -e --id=Tableau.Public
+winget install -e --id=junegunn.fzf
