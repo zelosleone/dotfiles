@@ -1,4 +1,5 @@
 winget install WhatsApp -s msstore --accept-package-agreements
+winget install --id 9PFHDD62MXS1
 winget install -e --id Microsoft.VisualStudioCode
 winget install -e --id Valve.Steam
 winget install -e --id Anaconda.Anaconda3
@@ -23,3 +24,7 @@ winget install -e --id=Posit.RStudio
 winget install -e --id=RProject.R
 winget install -e --id=Tableau.Public
 winget install -e --id=junegunn.fzf
+winget install -e --id=DupeGuru.DupeGuru
+winget install -e --id=Microsoft.PowerToys
+winget install -e --id=7zip.7zip
+winget install -e --id=RandyRants.SharpKeys
