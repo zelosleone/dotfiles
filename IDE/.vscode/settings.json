@@ -1,0 +1,59 @@
+{
+    "r.rterm.windows": "R.exe",
+    "r.bracketedPaste": true,
+    "r.plot.useHttpgd": true,
+    "r.lsp.enabled": true,
+    "r.rterm.option": [
+        "--no-save",
+        "--no-restore"
+    ],
+    "[r]": {
+        "editor.wordSeparators": "`~!@#%$^&*()-=+[{]}\\|;:'\",<>/?",
+        "editor.formatOnSave": true
+    },
+    "python.defaultInterpreterPath": "python",
+    "python.formatting.provider": "black",
+    "python.linting.enabled": true,
+    "python.linting.pylintEnabled": true,
+    "jupyter.askForKernelRestart": false,
+    "jupyter.themeMatplotlibPlots": true,
+    "omnisharp.enableRoslynAnalyzers": true,
+    "omnisharp.enableEditorConfigSupport": true,
+    "csharp.format.enable": true,
+    "julia.enableCrashReporter": false,
+    "julia.enableTelemetry": false,
+    "julia.format.indent": 4,
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.formatOnSave": true
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.formatOnSave": true
+    },
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.formatOnSave": true
+    },
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.formatOnSave": true
+    },
+    "lean.timeLimit": 20000,
+    "lean.memoryLimit": 4096,
+    "editor.minimap.enabled": false,
+    "editor.rulers": [80, 120],
+    "editor.bracketPairColorization.enabled": true,
+    "editor.guides.bracketPairs": "active",
+    "editor.formatOnSave": true,
+    "editor.fontLigatures": true,
+    "editor.fontFamily": "Cascadia Code",
+    "workbench.colorTheme": "Dracula Theme",
+    "terminal.integrated.defaultProfile.windows": "PowerShell",
+    "git.enableSmartCommit": true,
+    "git.confirmSync": false,
+    "jupyter.widgetScriptSources": ["jsdelivr.com", "unpkg.com"],
+    "python.dataScience.sendSelectionToInteractiveWindow": true
+}

@@ -9,7 +9,7 @@ winget install -e --id Microsoft.Office
 winget install -e --id Transmission.Transmission
 winget install -e --id=Microsoft.DotNet.Framework.DeveloperPack_4
 winget install -e --id=Julialang.Juliaup
-winget install -e --id=OpenJS.NodeJS
+winget install -e --id OpenJS.NodeJS.LTS
 winget install -e --id=Zoom.Zoom
 winget install -e --id=Telegram.TelegramDesktop
 winget install -e --id=Discord.Discord
