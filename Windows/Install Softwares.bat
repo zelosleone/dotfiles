@@ -28,3 +28,4 @@ winget install -e --id=DupeGuru.DupeGuru
 winget install -e --id=Microsoft.PowerToys
 winget install -e --id=7zip.7zip
 winget install -e --id=RandyRants.SharpKeys
+winget install -e --id=Nvidia.CUDA
