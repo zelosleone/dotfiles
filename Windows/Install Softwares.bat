@@ -1,5 +1,4 @@
 winget install WhatsApp -s msstore --accept-package-agreements
-winget install --id 9PFHDD62MXS1
 winget install -e --id Microsoft.VisualStudioCode
 winget install -e --id Valve.Steam
 winget install -e --id Anaconda.Anaconda3
@@ -29,3 +28,13 @@ winget install -e --id=Microsoft.PowerToys
 winget install -e --id=7zip.7zip
 winget install -e --id=RandyRants.SharpKeys
 winget install -e --id=Nvidia.CUDA
+winget install -e --id=JetBrains.DataSpell
+winget install -e --id=stnkl.EverythingToolbar.Beta
+winget install -e --id=JetBrains.DataGrip
+winget install -e --id=JetBrains.dotUltimate
+winget install -e --id=JetBrains.ReSharper
+winget install -e --id=JetBrains.PyCharm.Professional
+winget install -e --id=JetBrains.CLion
+winget install -e --id=JetBrains.WebStorm
+winget install -e --id=JetBrains.RubyMine
+winget install -e --id=JetBrains.GoLand
