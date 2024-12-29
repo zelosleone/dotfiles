@@ -25,3 +25,4 @@ winget install -e --id=JetBrains.Toolbox
 winget install -e --id=RedHat.Podman
 winget install -e --id=Anysphere.Cursor
 winget install -e --id=GitHub.GitHubDesktop
+winget install -e --id=GitHub.cli
