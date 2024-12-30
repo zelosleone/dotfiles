@@ -28,4 +28,7 @@ winget install -e --id=Anysphere.Cursor
 winget install -e --id=GitHub.GitHubDesktop
 winget install -e --id=GitHub.cli
 winget install -e --id=WiresharkFoundation.Wireshark
-winget install -e --id Microsoft.VisualStudio.2022.BuildTools
+winget install -e --id=WireGuard.WireGuard
+winget install -e --id=AgileBits.1Password
+winget install -e --id=WinMerge.WinMerge
+winget install -e --id=Microsoft.VisualStudio.2022.BuildTools
