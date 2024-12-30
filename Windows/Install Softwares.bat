@@ -2,7 +2,9 @@ winget install WhatsApp -s msstore --accept-package-agreements
 winget install -e --id Microsoft.VisualStudioCode
 winget install -e --id Valve.Steam
 winget install -e --id Docker.DockerDesktop
-winget install -e --id=RedHat.Podman
+winget install -e --id=Kubernetes.kubectl
+winget install -e --id=Helm.Helm
+winget install -e --id=Mirantis.Lens
 winget install -e --id Microsoft.Office
 winget install -e --id Transmission.Transmission
 winget install -e --id=Zoom.Zoom
@@ -26,7 +28,3 @@ winget install -e --id=Anysphere.Cursor
 winget install -e --id=GitHub.GitHubDesktop
 winget install -e --id=GitHub.cli
 winget install -e --id=WiresharkFoundation.Wireshark
-winget install -e --id=Kubernetes.minikube
-winget install -e --id=Kubernetes.kubectl
-winget install -e --id=Helm.Helm
-winget install -e --id=Mirantis.Lens
