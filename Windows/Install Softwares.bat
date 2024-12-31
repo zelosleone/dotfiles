@@ -2,7 +2,16 @@ winget install WhatsApp -s msstore --accept-package-agreements
 winget install -e --id=Microsoft.VisualStudioCode
 winget install -e --id=Valve.Steam
 winget install -e --id=Mozilla.Firefox
+winget install -e --id=Git.Git
+winget install -e --id=cURL.cURL
+winget install -e --id=7zip.7zip
 winget install -e --id=Anaconda.Anaconda3
+winget install -e --id=OCaml.opam
+winget install -e --id=Julialang.Julia
+winget install -e --id=Rustlang.Rustup
+winget install -e --id=RProject.R
+winget install -e --id=RProject.Rtools
+winget install -e --id=Oracle.MySQL
 winget install -e --id=Docker.DockerDesktop
 winget install -e --id=Kubernetes.kubectl
 winget install -e --id=Helm.Helm
