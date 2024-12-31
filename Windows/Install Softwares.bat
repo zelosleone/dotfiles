@@ -44,3 +44,4 @@ winget install -e --id=WireGuard.WireGuard
 winget install -e --id=AgileBits.1Password
 winget install -e --id=WinMerge.WinMerge
 winget install -e --id=Microsoft.VisualStudio.2022.BuildTools
+winget install -e --id=DigitalScholar.Zotero
