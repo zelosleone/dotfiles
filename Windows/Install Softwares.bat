@@ -1,13 +1,14 @@
 winget install WhatsApp -s msstore --accept-package-agreements
-winget install -e --id Microsoft.VisualStudioCode
-winget install -e --id Valve.Steam
-winget install -e --id Anaconda.Anaconda3
-winget install -e --id Docker.DockerDesktop
+winget install -e --id=Microsoft.VisualStudioCode
+winget install -e --id=Valve.Steam
+winget install -e --id=Mozilla.Firefox
+winget install -e --id=Anaconda.Anaconda3
+winget install -e --id=Docker.DockerDesktop
 winget install -e --id=Kubernetes.kubectl
 winget install -e --id=Helm.Helm
 winget install -e --id=Mirantis.Lens
-winget install -e --id Microsoft.Office
-winget install -e --id Transmission.Transmission
+winget install -e --id=Microsoft.Office
+winget install -e --id=Transmission.Transmission
 winget install -e --id=Zoom.Zoom
 winget install -e --id=Telegram.TelegramDesktop
 winget install -e --id=Discord.Discord
@@ -21,6 +22,7 @@ winget install -e --id=GeoGebra.Classic
 winget install -e --id=Tableau.Public
 winget install -e --id=Obsidian.Obsidian
 winget install -e --id=junegunn.fzf
+winget install -e --id=Klocman.BulkCrapUninstaller
 winget install -e --id=DupeGuru.DupeGuru
 winget install -e --id=Nvidia.CUDA
 winget install -e --id=stnkl.EverythingToolbar.Beta
